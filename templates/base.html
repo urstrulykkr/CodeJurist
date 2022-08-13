@@ -29,7 +29,7 @@
 
           <div class="navbar-nav">
             {% if user.is_authenticated %}
-            <button onclick="changeTheme()">Dark Mode</button>
+            <!-- <button onclick="changeTheme()">Dark Mode</button> -->
             <a class="nav-item nav-link" href="{% url 'submissions' %}">{{ user.username }}</a>
             <a class="nav-item nav-link" href="{% url 'logout_n' %}">Logout</a>
             {% else %}
@@ -61,7 +61,8 @@
 
 
   <script> function changeTheme() {
-      let element = document.body;
+      var element = document.body;
+      console.log(element);
       element.classList.toggle("dark-mode");
     }
   </script>
