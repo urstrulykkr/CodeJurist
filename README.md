@@ -1,4 +1,5 @@
-# CodeJurist: A scalable code evaluation platform.
+# CodeJurist: A scalable code evaluation platform. 
+# TO RUN LOCALLY YOU MUST HAVE DOCKER DESKTOP RUNNING IN THE BACKGROUND! CONTANERS SHOULD BE RUNNING (look at the image below).
   
 - :pushpin: CodeJurist allows users to submit solution, written in any popular languages for the coding challenges & evaluates solution by presenting the               deserved verdict.
 
@@ -35,3 +36,6 @@ Report [here](https://github.com/urstrulykkr/CodeJurist/issues) in detail answer
 -   Have you tried any troubleshooting steps such as a reboot for example?
 -   Have you followed the prescribed prerequisites?
 
+
+
+<img width="1261" alt="image" src="https://github.com/urstrulykkr/CodeJurist/assets/42496280/0d7521cc-7c3f-4d8d-a623-16387ef5f2fa">
