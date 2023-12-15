@@ -1,4 +1,8 @@
 # CodeJurist: A scalable code evaluation platform. 
+
+# My work plan:
+https://docs.google.com/document/d/1zYKSyPG2nuohSU5TBXx0fm39ahCV3yVwCpBJoFwbQSo/edit?usp=sharing
+
 # TO RUN LOCALLY YOU MUST HAVE DOCKER DESKTOP RUNNING IN THE BACKGROUND! CONTANERS SHOULD BE RUNNING (look at the image below).
   
 - :pushpin: CodeJurist allows users to submit solution, written in any popular languages for the coding challenges & evaluates solution by presenting the               deserved verdict.
