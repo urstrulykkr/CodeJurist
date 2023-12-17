@@ -27,7 +27,7 @@ https://docs.google.com/document/d/1zYKSyPG2nuohSU5TBXx0fm39ahCV3yVwCpBJoFwbQSo/
     - UI :art: : HTML5, CSS3.
     - Backend :mechanic: : Django, Docker.
     - DataBase :file_cabinet: : PostgreSQL.
-    - Cloud :cloud: : nginx, gunicorn, Heroku platform
+    - Cloud :cloud: : nginx, gunicorn, AWS EC2
 
 
 # :memo: I found some bugs or issues. Where do I report?
